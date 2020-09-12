@@ -75,7 +75,10 @@ Deployed with Flask
 
 
 
+### DASHBOARD
 
+<img width="1440" alt="Screen Shot 2020-09-12 at 18 34 28" src="https://user-images.githubusercontent.com/61573559/92994801-b48eab80-f527-11ea-8bea-77c16c4e3328.png">
+[](url)
 
 
 
