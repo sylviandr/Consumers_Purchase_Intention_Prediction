@@ -126,6 +126,12 @@ What is a Confusion Matrix ? What does it implies ? A confusion matrix is simply
 
 > - Precision : When it predicts true, how often is it correct ?
 
+### BEST MODEL
+
+<img width="1345" alt="Screen Shot 2020-09-12 at 19 13 25" src="https://user-images.githubusercontent.com/61573559/92995260-34b71000-f52c-11ea-92c5-273240b7737f.png">
+
+> Finally we've finished this part, the best model is **Random Forest with hyperparameter tuning RandomSearch at split 80%**, as it is most stable and no overfitting. Since in this business case we need to predict Customer might be purchased or not, so it would be best if we choose the models with a high **Recall** apart from a high **Accuracy**, **Precision** and also **F1 Score**.
+
 ### DASHBOARD
 
 #### HOME
