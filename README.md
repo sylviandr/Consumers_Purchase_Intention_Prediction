@@ -18,6 +18,12 @@ Written with Python in Jupyter Notebook and Visual Studio Code<br>
 Libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scipy, Plotly, Scikit-learn, Imbalanced-learn, Joblib<br>
 Deployed with Flask
 
+### In this project, there are 3 steps that I did:
+
+Data Cleaning (Handle Missing Value and Outlier)
+Exploratory Data Analysis
+Modelling Machine Learning Algorithm to Make Classification for Revenue generating or not, based on features that provide in this dataset.
+
 ### Keywords
   *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
   *Target Imbalance, Feature Selection, Model Selection, Hyperparameter Tuning, Evaluation, Deployment*
