@@ -2,7 +2,7 @@
 
 ## Consumers' Purchase Intention Towards Online Shopping
 
-### This project is as one of the requirements for completing the Job Connector Data Science Programme, Jakarta Batch 09.
+### This project is as one of the requirements for completing the Job Connector Data Science Programme in Purwadhika Startup & Coding School Jakarta, Batch 09.
 
 ### About Dataset
 - The dataset consists of feature vectors belonging to 12,330 sessions.
