@@ -6,7 +6,7 @@
 
 ### About Dataset
 - The dataset consists of feature vectors belonging to 12,330 sessions.
-- The dataset has been collected from www.columbia.com.tr which was provided by the Turkish Gözalan Group. 
+- The dataset has been collected from https://www.kaggle.com/roshansharma/online-shoppers-intention which original dataset has been collected from www.columbia.com.tr which was provided by the Turkish Gözalan Group. 
 - The Columbia Sportswear Company is an American company that manufactures and distributes outerwear and outdoor accessories.
 
 ### Purpose of the Project
