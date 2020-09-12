@@ -19,3 +19,6 @@ Deployed with Flask
 ### Keywords
   *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
   *Target Imbalance, Feature Selection, Model Selection, Hyperparameter Tuning, Evaluation, Deployment*
+
+### BLA
+ ><font color=blue> **Administrative** : This is the number of pages of this type (administrative) that the user visited.
