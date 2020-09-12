@@ -78,6 +78,25 @@ Deployed with Flask
 
 We have to analyze each feature, especially each feature against our target variable, Revenue. So, we can find out and predict what features can provide the potential for greater revenue due to the final consumer decision to make a product purchase.
 
+## SECTION 3 - MACHINE LEARNING MODEL BUILDING
+
+***The goal of this section is to build and selecting the best model to predict Revenue Generated or Not from Customer's Online Purchasing from E-Commerce.*** 
+
+In order to achieve this goal, we will be focusing on searching the best model using some conditions below : 
+
+- First, we split the data into 80% Train data and then we split the data into 90% Train data.
+
+
+- Then we scale the data so that the're having the same scale.
+
+
+- In each attempts we will be conducting the Logistic Regression, Random Forrest Classifier, Decision Tree Classifier and KNearest Neighbors Models.
+
+
+- Also we try to do the hyperparameter tuning then compare it between it's default models.
+
+
+- In last part we compare the result between models to achieve our goals.
 
 ### DASHBOARD
 
