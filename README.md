@@ -20,5 +20,61 @@ Deployed with Flask
   *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
   *Target Imbalance, Feature Selection, Model Selection, Hyperparameter Tuning, Evaluation, Deployment*
 
-### BLA
- <font color=blue> **Administrative** : This is the number of pages of this type (administrative) that the user visited.
+## SECTION 1 - Data Cleaning
+
+***The main aim of Data Cleaning is to identify and remove errors & duplicate data, in order to create a reliable dataset. This improves the quality of the training data for analytics and enables accurate decision-making.*** 
+
+   We have to analyze each feature, especially each feature against our target variable, Revenue. we need to identify and remove errors & duplicate data, in        order to create a reliable dataset. So, we can find out and predict what features can provide the potential for greater revenue due to the final consumer decision to make a product purchase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
