@@ -148,8 +148,6 @@ In order to achieve this goal, we will be focusing on searching the best model u
 
 <img width="1440" alt="Screen Shot 2020-09-12 at 18 36 30" src="https://user-images.githubusercontent.com/61573559/92995050-fb7da080-f529-11ea-9f65-74085e2b9416.png">
 
-<img width="1440" alt="Screen Shot 2020-09-12 at 18 36 35" src="https://user-images.githubusercontent.com/61573559/92995087-4d262b00-f52a-11ea-9cbd-2332a48f3d0b.png">
-
 #### Result
 
 <img width="1440" alt="Screen Shot 2020-09-12 at 18 37 22" src="https://user-images.githubusercontent.com/61573559/92995129-b3ab4900-f52a-11ea-8cfa-913cfac44a44.png">
