@@ -20,9 +20,9 @@ Deployed with Flask
 
 ### In this project, there are 3 steps that I did:
 
--Data Cleaning (Handle Missing Value and Outlier)
--Exploratory Data Analysis
--Modelling Machine Learning Algorithm to Make Classification for Revenue generating or not, based on features that provide in this dataset.
+- Data Cleaning (Handle Missing Value and Outlier)
+- Exploratory Data Analysis
+- Modelling Machine Learning Algorithm to Make Classification for Revenue generating or not, based on features that provide in this dataset.
 
 ### Keywords
   *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
