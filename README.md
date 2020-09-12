@@ -83,6 +83,9 @@ Deployed with Flask
 #### Data Visualization
 <img width="1440" alt="Screen Shot 2020-09-12 at 18 34 57" src="https://user-images.githubusercontent.com/61573559/92994946-1b609480-f529-11ea-9800-a563867fdf8e.png">
 
+#### Dataset
+<img width="1440" alt="Screen Shot 2020-09-12 at 18 36 08" src="https://user-images.githubusercontent.com/61573559/92995008-b6f20500-f529-11ea-8410-44a751a9f27d.png">
+
 
 
 
