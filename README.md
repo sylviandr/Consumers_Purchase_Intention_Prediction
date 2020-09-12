@@ -97,8 +97,7 @@ In order to achieve this goal, we will be focusing on searching the best model u
 
 ### MODEL SUMMARY
 
->Now, we will summarize our findings. But before that, we must answer the question I mentioned before. 
-What is a Confusion Matrix ? What does it implies ? A confusion matrix is simply a table that is often used to describe the performance of a classification model on a set of test data. 
+>What is a Confusion Matrix ? What does it implies ? A confusion matrix is simply a table that is often used to describe the performance of a classification model on a set of test data. 
 
 > Let's now define the most basic terms in this matrix :
 
