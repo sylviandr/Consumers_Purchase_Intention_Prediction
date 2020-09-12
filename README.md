@@ -72,7 +72,11 @@ Deployed with Flask
 
    ><font color=blue>**Revenue**: A boolean representing whether or not the user completed the purchase.
 
+## SECTION 2 - Exploratory Data Analysis
 
+***The goal of this section is to understands and analyze consumers' behavior to predict Revenue Generated or not from Customer's Online Purchasing from E-Commerce.*** 
+
+We have to analyze each feature, especially each feature against our target variable, Revenue. So, we can find out and predict what features can provide the potential for greater revenue due to the final consumer decision to make a product purchase.
 
 
 ### DASHBOARD
