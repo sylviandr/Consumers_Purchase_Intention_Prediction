@@ -13,26 +13,23 @@
 - To predict the purchasing intention of the visitor using user information and aggregated pageview data track during the visit along with some session.
 - Understanding consumer motivations that affect the online shopping behavior.
 
-### Tech Stack
-Written with Python in Jupyter Notebook and Visual Studio Code<br>
-Libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scipy, Plotly, Scikit-learn, Imbalanced-learn, Joblib<br>
-Deployed with Flask
-
 ### In this project, there are 3 steps that I did:
 
 - Data Cleaning (Handle Missing Value and Outlier)
 - Exploratory Data Analysis
 - Modelling Machine Learning Algorithm to Make Classification for Revenue generating or not, based on features that provide in this dataset.
 
-### Keywords
-  *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
-  *Target Imbalance, Feature Selection, Model Selection, Hyperparameter Tuning, Evaluation, Deployment*
 
 ## SECTION 1 - Data Cleaning
 
 ***The main aim of Data Cleaning is to identify and remove errors & duplicate data, in order to create a reliable dataset. This improves the quality of the training data for analytics and enables accurate decision-making.*** 
 
    We have to analyze each feature, especially each feature against our target variable, Revenue. we need to identify and remove errors & duplicate data, in        order to create a reliable dataset. So, we can find out and predict what features can provide the potential for greater revenue due to the final consumer decision to make a product purchase.
+   
+### Tech Stack
+Written with Python in Jupyter Notebook and Visual Studio Code<br>
+Libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scipy, Plotly, Scikit-learn, Imbalanced-learn, Joblib<br>
+Deployed with Flask
 
 ### Column Descriptions:
 
@@ -158,8 +155,9 @@ What is a Confusion Matrix ? What does it implies ? A confusion matrix is simply
 
 <img width="1440" alt="Screen Shot 2020-09-12 at 18 37 22" src="https://user-images.githubusercontent.com/61573559/92995129-b3ab4900-f52a-11ea-8cfa-913cfac44a44.png">
 
-
-
+### Keywords
+  *Classification, e-Commerce, Google Analytics, Digital Marketing, Conversion, Session, Channel*<br>
+  *Target Imbalance, Feature Selection, Model Selection, Hyperparameter Tuning, Evaluation, Deployment*
 
 
 
