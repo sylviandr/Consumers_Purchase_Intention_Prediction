@@ -98,6 +98,34 @@ In order to achieve this goal, we will be focusing on searching the best model u
 
 - In last part we compare the result between models to achieve our goals.
 
+### MODEL SUMMARY
+
+>Now, we will summarize our findings. But before that, we must answer the question I mentioned before. 
+What is a Confusion Matrix ? What does it implies ? A confusion matrix is simply a table that is often used to describe the performance of a classification model on a set of test data. 
+
+> Let's now define the most basic terms in this matrix :
+
+> - True Positives (TP): Cases in which are predicted as *positives* and in reality are also *positives*.
+
+
+> - True Negatives (TN): Cases in which are predicted as *negatives* and in reality are also *negatives*.
+
+
+> - False Positives (FP): Cases in which are predicted as *positives*, but in reality are *negatives*.
+
+
+> - False Negatives (FN): Cases in which are predicted as *negatives*, but in reality are *positives*.
+
+> This is a list of rates that are often computed from a confusion matrix for a binary classifier:
+
+> - Accuracy : Overall, how often is the classifier correct?
+
+
+> - Recall : When it's actually true, how often does it predict as true ?
+
+
+> - Precision : When it predicts true, how often is it correct ?
+
 ### DASHBOARD
 
 #### HOME
